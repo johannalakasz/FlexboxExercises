@@ -1,1 +1,14 @@
 /* Solve Exercise 10 here */
+nav {
+    display: flex;
+    padding: 10px;
+    background-color: blue;
+}
+
+nav div {
+    padding: 10px;
+}
+
+nav div.date {
+    margin-right: auto;
+}
